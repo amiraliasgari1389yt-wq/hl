@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Launch</string>
+    <string name="settings_title">انتخاب اپلیکیشن مقصد</string>
+    <string name="select_app_instruction">اپی که با نگه‌داشتن دکمه Home باز می‌شه رو انتخاب کن:</string>
+    <string name="please_select_app">لطفاً یک اپ انتخاب کنید</string>
+    <string name="app_selected">%1$s به‌عنوان اپ مقصد انتخاب شد</string>
+</resources>
